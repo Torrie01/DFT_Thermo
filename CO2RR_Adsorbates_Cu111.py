@@ -13,6 +13,12 @@ entry(
     label = "CH2OHX",
     molecule =
 """
+1 O u0 p2 c0 {2,S} {5,S}
+2 C u0 p0 c0 {1,S} {3,S} {4,S} {6,S}
+3 H u0 p0 c0 {2,S}
+4 H u0 p0 c0 {2,S}
+5 H u0 p0 c0 {1,S}
+6 X u0 p0 c0 {2,S}
 """,
     thermo = NASA(
     polynomials = [
@@ -34,6 +40,10 @@ entry(
     label = "CH2X",
     molecule =
 """
+1 C u0 p0 c0 {2,S} {3,S} {4,D}
+2 H u0 p0 c0 {1,S}
+3 H u0 p0 c0 {1,S}
+4 X u0 p0 c0 {1,D}
 """,
     thermo = NASA(
     polynomials = [
@@ -55,6 +65,11 @@ entry(
     label = "CH3X",
     molecule =
 """
+1 C u0 p0 c0 {2,S} {3,S} {4,S} {5,S}
+2 H u0 p0 c0 {1,S}
+3 H u0 p0 c0 {1,S}
+4 H u0 p0 c0 {1,S}
+5 X u0 p0 c0 {1,S}
 """,
     thermo = NASA(
     polynomials = [
@@ -76,6 +91,11 @@ entry(
     label = "CHOHX",
     molecule =
 """
+1 O u0 p2 c0 {2,S} {4,S}
+2 C u0 p0 c0 {1,S} {3,S} {5,D}
+3 H u0 p0 c0 {2,S}
+4 H u0 p0 c0 {1,S}
+5 X u0 p0 c0 {2,D}
 """,
     thermo = NASA(
     polynomials = [
@@ -122,6 +142,9 @@ entry(
     label = "CHX",
     molecule =
 """
+1 C u0 p0 c0 {2,S} {3,T}
+2 H u0 p0 c0 {1,S}
+3 X u0 p0 c0 {1,T}
 """,
     thermo = NASA(
     polynomials = [
@@ -170,6 +193,10 @@ entry(
     label = "COHX",
     molecule =
 """
+1 O u0 p2 c0 {2,S} {3,S}
+2 C u0 p0 c0 {1,S} {4,T}
+3 H u0 p0 c0 {1,S}
+4 X u0 p0 c0 {2,T}
 """,
     thermo = NASA(
     polynomials = [
