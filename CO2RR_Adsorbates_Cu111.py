@@ -32,6 +32,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -57,6 +59,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -83,6 +87,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -109,6 +115,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -134,6 +142,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -158,6 +168,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -185,6 +197,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -210,6 +224,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -236,6 +252,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -260,6 +278,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -290,6 +310,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -320,6 +342,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -348,6 +372,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -377,6 +403,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -406,6 +434,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -433,6 +463,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -462,6 +494,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -488,6 +522,8 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
 
@@ -515,5 +551,7 @@ entry(
     longDesc =
 u"""Calculated by Torrie Asifor at Northeastern University using Statistical Mechanics. Based on DFT calculations by Colin Gallagher at Northeastern University
 """,
+    metal = "Cu",
+    facet = "111",
 )
 
